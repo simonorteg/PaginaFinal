@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;  
+  }
+  
+  .fondo-silver {        
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display:flex ;
+  }
+
+  .container {
+    position:sticky;   
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  .f-cuadro {
+    min-height: 380px;
+    background-position:10%;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    position: sticky;  
+  
+    
+  }
+  
