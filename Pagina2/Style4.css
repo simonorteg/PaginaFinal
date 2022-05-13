@@ -101,11 +101,10 @@ body{
  
   
   h1{
-   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
-   text-align: center; 
+    font-family: 'Comic Neue', cursive; text-align: center; 
    }
    p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    font-family: 'Comic Neue', cursive; text-align: center; 
     text-align: center;  
     color: rgb(17, 17, 17);  
    }
