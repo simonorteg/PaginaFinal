@@ -1,3 +1,8 @@
+@font-face {
+  font-family: SF Comic Script Extended;
+  src: url(SF.ttf);
+}
+
 *{
     box-sizing: border-box;  
   }
@@ -124,6 +129,11 @@ body{
     display: table;
     clear: both;
 }
+.row h3{
+  font-family: SF Comic Script Extended;
+  color:rgb(7, 26, 90);
+  font-size: 20px;
+}
 /*
 .container {
   position: relative;
@@ -157,7 +167,7 @@ form {
 }
 
 /* Style the input elements and the submit button */
-input[type=text], input[type=submit] {
+input[type=email], input[type=submit] {
   width: 50%;
   padding: 10px;
   margin: 8px 0;
